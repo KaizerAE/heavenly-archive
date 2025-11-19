@@ -11,6 +11,8 @@
 
 *Record your journey with celestial elegance* ✨
 
+---\n\n<div align=\"center\">\n\n## ✨ Project Showcase\n\n<img src=\"https://media.giphy.com/media/c5DqJSCQCGHeQv8xxt/giphy.gif\" width=\"400\" alt=\"Aesthetic Animation 1\"/>\n\n<img src=\"https://media.giphy.com/media/sWWA3e9CUs33ujxMkX/giphy.gif\" width=\"400\" alt=\"Aesthetic Animation 2\"/>\n\n</div>\n\n<div align=\"center\">\n\n<img src=\"https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif\" width=\"400\" alt=\"Aesthetic Animation 3\"/>\n\n<img src=\"https://media.giphy.com/media/rEqcsmoz7RcMtp0SbW/giphy.gif\" width=\"400\" alt=\"Aesthetic Animation 4\"/>\n\n</div>\n\n<div align=\"center\">\n\n<img src=\"https://media.giphy.com/media/BZusMMEpb8v6ys4ahG/giphy.gif\" width=\"400\" alt=\"Aesthetic Animation 5\"/>\n\n</div>
+
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
 
 </div>
